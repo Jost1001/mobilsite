@@ -19,13 +19,18 @@ img {
 }
 
 @font-face {
-  font-family: "aldrichregular";
-  src:
-    url("aldrich-regular-webfont.woff2") format("woff2"),
-    url("aldrich-regular-webfont.woff") format("woff");
+  font-family: "relationship_of_mlodrameRg";
+  src: url("relationship_of_melodrame-webfont.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
+/*
+@font-face {
+  font-family: "silkscreen_expandednormal";
+  src: url("slkscre-webfont.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}*/
 
 .computere {
   font-family: "Do Hyeon", sans-serif;
@@ -34,16 +39,12 @@ img {
   font-size: 3rem;
 }
 
-/*computere farve #858582*/
-
 .min_computer_title {
   font-family: "Do Hyeon", sans-serif;
   color: #7a5400;
   text-shadow: -2px 2px 1px rgb(0, 0, 0);
   font-size: 3rem;
 }
-
-/*min computer farve #919187*/
 
 .op_title {
   font-family: "Do Hyeon", sans-serif;
@@ -52,8 +53,6 @@ img {
   font-size: 3rem;
 }
 
-/*operativ farve #a2a29b*/
-
 .komponenter_title {
   font-family: "Do Hyeon", sans-serif;
   color: #0c4978;
@@ -61,16 +60,12 @@ img {
   font-size: 3rem;
 }
 
-/*komponent farve #94948f*/
-
 .galleri_title {
   font-family: "Do Hyeon", sans-serif;
   color: #80368f;
   text-shadow: -2px 2px 1px rgb(0, 0, 0);
   font-size: 3rem;
 }
-
-/*galleri farve #919190*/
 
 /*************** Farver *********************/
 .color1 {
@@ -105,6 +100,7 @@ h2 {
 }
 p {
   margin-bottom: 1.3rem;
+  padding: 0.2rem;
 }
 
 main {
@@ -123,6 +119,9 @@ main {
 dl {
   margin-bottom: 4rem;
   margin-top: 2rem;
+}
+dt {
+  font-weight: bold;
 }
 dd {
   margin-bottom: 0.7rem;
@@ -154,8 +153,14 @@ footer {
   background-color: #f9d7f2;
 }
 
-p {
-  font-family: "aldrichregular";
-  font-size: 1rem;
-  font-weight: normal;
+h3 {
+  font-family: "relationship_of_mlodrameRg";
+  font-size: 1.2rem;
+  font-style: italic;
+  font-weight: bolder;
 }
+/*.cooling {
+  font-family: "silkscreen_expandednormal";
+  font-size: 1.5rem;
+}
+*/
