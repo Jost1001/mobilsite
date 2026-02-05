@@ -1,0 +1,129 @@
+/*************** Reset *********************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+/*************** Fonts *********************/
+
+.bitcount-single {
+  font-family: "Bitcount Single", system-ui;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.computere {
+  font-family: "Bitcount Single", system-ui;
+  color: #9c9c9b;
+  text-shadow: -2px 2px 1px rgb(0, 0, 0);
+  font-size: 3rem;
+}
+.min_computer_title {
+  font-family: "Bitcount Single", system-ui;
+  color: #919187;
+  text-shadow: -2px 2px 1px rgb(0, 0, 0);
+  font-size: 3rem;
+}
+.op_title {
+  font-family: "Bitcount Single", system-ui;
+  color: #a2a29b;
+  text-shadow: -2px 2px 1px rgb(0, 0, 0);
+  font-size: 3rem;
+}
+.komponenter_title {
+  font-family: "Bitcount Single", system-ui;
+  color: #94948f;
+  text-shadow: -2px 2px 1px rgb(0, 0, 0);
+  font-size: 3rem;
+}
+.galleri_title {
+  font-family: "Bitcount Single", system-ui;
+  color: #919190;
+  text-shadow: -2px 2px 1px rgb(0, 0, 0);
+  font-size: 3rem;
+}
+
+/*************** Farver *********************/
+.color1 {
+  color: #71a0a9;
+}
+.color2 {
+  color: #324b4f;
+}
+.color3 {
+  color: #c1dce2;
+}
+.color4 {
+  color: #9f94b0;
+}
+.color5 {
+  color: #6b617c;
+}
+.color6 {
+  color: #832800;
+}
+.color7 {
+  color: #ffe9d0;
+}
+/*************** Margin ***************/
+
+h1 {
+  margin-block: 3rem 0.8rem;
+}
+h2 {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+p {
+  margin-bottom: 1.3rem;
+}
+
+main {
+  margin-left: 0.7rem;
+  margin-right: 0.3rem;
+}
+.billede {
+  margin-right: 1rem;
+  margin-bottom: 0.3rem;
+}
+.after_image {
+  margin-block: 5rem 0.8rem;
+}
+dl {
+  margin-bottom: 4rem;
+  margin-top: 2rem;
+}
+dd {
+  margin-bottom: 0.7rem;
+}
+.min_computer_link {
+  margin-left: 1rem;
+}
+
+footer {
+  margin-top: 1rem;
+}
+/*************** Baggrunde ***************/
+
+.forside {
+  background-color: #fcbcbc;
+}
+.min_computer {
+  background-color: #ffe9d0;
+}
+
+.operativsystemer {
+  background-color: #d2efda;
+}
+.komponenter {
+  background-color: #c1dce2;
+}
+.galleri {
+  background-color: #f9d7f2;
+}
