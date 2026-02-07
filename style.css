@@ -101,6 +101,8 @@ h2 {
 p {
   margin-bottom: 1.3rem;
   padding: 0.2rem;
+}
+.p_link {
   overflow-wrap: break-word;
 }
 main {
