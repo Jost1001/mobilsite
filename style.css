@@ -60,8 +60,15 @@ img {
   font-size: 3rem;
 }
 
+h2 {
+  font-family: "relationship_of_mlodrameRg";
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: bold;
+}
+
 /*************** Farver *********************/
-.color1 {
+/* .color1 {
   color: #71a0a9;
 }
 .color2 {
@@ -81,8 +88,8 @@ img {
 }
 .color7 {
   color: #ffe9d0;
-}
-/*************** Margin ***************/
+} */
+/*************** Margin og padding ***************/
 
 h1 {
   margin-block: 3rem 0.8rem;
@@ -153,11 +160,4 @@ footer {
 }
 .galleri {
   background-color: #f9d7f2;
-}
-
-h2 {
-  font-family: "relationship_of_mlodrameRg";
-  font-size: 2rem;
-  font-style: normal;
-  font-weight: bold;
 }
