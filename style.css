@@ -102,7 +102,9 @@ p {
   margin-bottom: 1.3rem;
   padding: 0.2rem;
 }
-
+.p_link {
+  padding: 0.2rem;
+}
 main {
   margin-left: 0.7rem;
   margin-right: 0.7rem;
